@@ -1,0 +1,16 @@
+{
+  "name": "backendaula1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trabalho5.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc trabalho5.ts && node trabalho5"
+  },
+  "author": "",
+  "license": "ISC"
+}
